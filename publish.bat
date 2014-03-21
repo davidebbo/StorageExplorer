@@ -1,0 +1,1 @@
+msbuild AzureStorageService\AzureStorageService.ccproj /t:Publish /p:Configuration=Release

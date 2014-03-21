@@ -1,0 +1,19 @@
+﻿html, body 
+{
+	height: 99%;
+}
+
+#container
+{
+	position: relative;
+	min-height: 100%;
+}
+#footer
+{
+	position: absolute;
+	bottom:0;
+}
+
+.info {
+	font-family: Verdana, Arial;
+}
